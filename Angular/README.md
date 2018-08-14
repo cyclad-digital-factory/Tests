@@ -1,4 +1,4 @@
-# Cyclad Digital Factory Angular Test
+# Cyclad Angular Test
 
 This project is prepared by Cyclad DIF team to evaluate programming skills on Angular.
 
