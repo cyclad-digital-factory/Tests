@@ -25,3 +25,10 @@ Your task is to realize a ToDO App with the following functionalities :
 * Create Todo Service with associate test including getAll getbyId add checked/unchecked delete update
 * Create an Angular testing module
 * Create your template and styling file
+
+## Deliver your job
+
+You must create a tarball containing : 
+ * source files 
+ * AUTHORS file including your name and surname and your email address
+ * Send it to clement.erena@cyclad.pl
