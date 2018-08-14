@@ -1,30 +1,32 @@
 # Cyclad Digital Factory Angular Test
 
-This project is prepared by Cyclad DIF team to evaluate your programming skills on Angular.
+This project is prepared by Cyclad DIF team to evaluate programming skills on Angular.
 
 ## Project Subject
 
-Your task is to realize a ToDO App with the following functionalities :
+The goal of the task is to create a To Do application with the following features:
 
-* One input to enter your text and added when pressing enter or clicking a button
-* A list of todos ordered from oldest to newest (oldest on the top)
-* Details about your todo when clicking on it (datetime added, text)
+* Creating new todo
+* Displaying list of todos
+* Updating todo
+* Deleting todo
 
 ## Requirements
 
-* The minimum Angular version you can use is 5
-* You must use ngrx
-* Store your data in memory
-* You must add a README to give guidelines on how to launch the project
-* We should be able to run the project with just having to type npm start or yarn start after installing dependencies
+* Angular ^6.0.0
+* Angular CLI
+* NgRX for state management
+* Todo's data must be stored in local storage of the browser
+* Use Reactive Forms
+* Use SCSS
 
 ## Guidelines
 
-* Create your app using angular CLI
-* Create a Todo Class with title and checked status (boolean) with associate unit test
-* Create Todo Service with associate test including getAll getbyId add checked/unchecked delete update
-* Create an Angular testing module
-* Create your template and styling file
+* Create your app using Angular CLI
+* Create a Todo Class with properties: title, dateAdded, isDone 
+* Create a Todo Service that will expose api to the components
+* Create tests where necessary 
+* You may use Angular Material library
 
 ## Deliver your job
 
